@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "lastname": "Махонин",
+    "firstname": "Дмитрий",
+    "patronymic": "Николаевич",
+    "position": "Губернатор Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/machonin.jpg",
+    "coordinate": []
+  },
+  {
+    "id": 2,
+    "lastname": "Антипина",
+    "firstname": "Ольга",
+    "patronymic": "Владимировна",
+    "position": "Первый заместитель представителя Правительства Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/antipina.png",
+    "coordinate": [
+      {
+        "name": "Министерство финансов Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/thor-ekaterina-ivanovna/"
+      },
+      {
+        "name": "Министерство порегулированию контактной системы в сфере закупок Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/gershanok-lev-valentinovich/"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "lastname": "Самойлов",
+    "firstname": "Дмитрий",
+    "patronymic": "Иванович",
+    "position": "Заместитель представителя Правительства Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/samoilov.png",
+    "coordinate": [
+      {
+        "name": "Министерство образования и науки Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/kassina-raisa-alekseevna/"
+      },
+      {
+        "name": "Министерство культуры Пермского края",
+        "url": "https://mk.permkrai.ru/"
+      },
+      {
+        "name": "Министерство физической культуры и спорта Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/chesnokova-tatyana-vasilyevna/"
+      },
+      {
+        "name": "Государственная инспекция по охране объектов культурного наследия Пермского края",
+        "url": "https://nasledie.permkrai.ru/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "lastname": "Никифоров",
+    "firstname": "Сергей",
+    "patronymic": "Олегович",
+    "position": "Заместитель представителя Правительства Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/nikiforov.jpg",
+    "coordinate": [
+      {
+        "name": "Министерство здравоохранения Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/kruten-anastasia-vladimirovna/"
+      },
+      {
+        "name": "Министерство социального Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/fokin-pavel-sergeevich/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "lastname": "Чибисов",
+    "firstname": "Алексей",
+    "patronymic": "Валерьевич",
+    "position": "Заместитель представителя Правительства Пермского края. Министр промышленности и торговли Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/chibisov.jpg",
+    "coordinate": [
+      {
+        "name": "Министерство агропромышленного комплекса Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/noskov-pavel-alekseevich/"
+      },
+      {
+        "name": "Министерство экономического развития и инвестиций Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/sosnin-eduard-olegovich/"
+      },
+      {
+        "name": "Агенство по развитию малого и среднего предпринимательства",
+        "url": "https://www.permkrai.ru/government/leadership/bikova_anna_andreevna/"
+      },
+      {
+        "name": "Государственная ветеринарная инспекция Пермского края",
+        "url": "https://invet.permkrai.ru/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "lastname": "Кокорев",
+    "firstname": "Адрей",
+    "patronymic": "Александрович",
+    "position": "Заместитель представителя Правительства Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/cocorev.jpg",
+    "coordinate": [
+      {
+        "name": "Министерство жилищно-коммунального хозяйства и благоустройства Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/balahnin-artem-aleksandrovich/"
+      },
+      {
+        "name": "Министерство тарифного регулирования и энергетики Пермского края",
+        "url": "https://mtre.permkrai.ru/"
+      },
+      {
+        "name": "Инспекция государственного жилищного надзора Пермского края",
+        "url": "https://iggn.permkrai.ru/"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "lastname": "Борисов",
+    "firstname": "Александр",
+    "patronymic": "Валерьевич",
+    "position": "Заместитель представителя Правительства Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/borisov.jpg",
+    "coordinate": [
+      {
+        "name": "Министерство территориальной безопасности Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/kovtun-andrey-viktorovich/"
+      },
+      {
+        "name": "Министерство территориального развития Пермского края",
+        "url": "https://minter.permkrai.ru/"
+      },
+      {
+        "name": "Министерство по делам Коми-Пермяцкого округаПермского края",
+        "url": "https://minkpo.permkrai.ru/"
+      },
+      {
+        "name": "Министерство природных ресурсов, лесного хозяйства и экологии Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/belanovich-dmitriy-mihailovich/"
+      },
+      {
+        "name": "Агенство по делам юстиции и мировых судей Пермского края",
+        "url": "https://mirust.permkrai.ru/"
+      },
+      {
+        "name": "Государственная инспекция по экологии и природопользованию Пермского края",
+        "url": "https://giep.permkrai.ru/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "lastname": "Чернилов",
+    "firstname": "Алексей",
+    "patronymic": "Леонидович",
+    "position": "Заместитель представителя Правительства Пермского края",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/chernilov.jpg",
+    "coordinate": [
+      {
+        "name": "Министерство информационного развития и связи Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/shilovskikh-pyetr-aleksandrovich/"
+      },
+      {
+        "name": "Министерство по туризму и молодежной политике Пермского края",
+        "url": "https://www.permkrai.ru/government/leadership/vetoshkina-yuliya-albertovna/"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "lastname": "Никольская",
+    "firstname": "Вера",
+    "patronymic": "Владимировна",
+    "position": "Руководитель агенства",
+    "photoUrl": "/web/SavinovaAV/vkr/images/photo/nikolskaya.jpeg",
+    "coordinate": [
+      {
+        "name": "Агенство по делам архивов Пермского края",
+        "url": "https://agarh.permkrai.ru/"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "lastname": "Ерохина",
+    "firstname": "Елена",
+    "patronymic": "Анатольевна",
+    "position": "Председатель комитета",
+    "photoUrl": "",
+    "coordinate": [
+      {
+        "name": "Комитет записи актов гражданского состояния Пермского края",
+        "url": "https://zags.permkrai.ru/"
+      }
+    ]
+  }
+]
