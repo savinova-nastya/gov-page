@@ -10,6 +10,6 @@ import './app.scss'
 const url = "/web/SavinovaAV/vkr/eployeesList.json"
 
 
-const container = document.getElementById('root');
+const container = document.getElementById(window.point);
 const root = createRoot(container);
 root.render(<EmployeeList url={url} />);
